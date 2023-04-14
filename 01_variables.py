@@ -13,6 +13,7 @@ print(mi_bool_variable)
 
 print(mi_variable_numero, mi_variable, mi_bool_variable)
 print("Esto deberia decirme que tienes 5 años", mi_variable_numero)
+
 #algunas funciones del sistema
 #len = funcion para contrar numero de caracteres
 

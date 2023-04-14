@@ -1,0 +1,1 @@
+lista_colores = ("rojo","azul","verde","amarillo","rosa")
