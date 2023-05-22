@@ -22,6 +22,3 @@ for i in range(len(lista_numeros1)):
     num2 = lista_numeros2[i]
     if num1 == num2:
         print(f"El número {num1} está en ambas listas y en la posicion {i}.")
-
-
-
