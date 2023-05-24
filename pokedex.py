@@ -23,11 +23,10 @@ def mostrar_detalles_pokemon(numero_pokemon):
 
 def mostrar_menu():
 
-    mostrar_pokemons()
+
 
     while True:
-        print ("Si quieres cerrar el programa introduce el numero 0")
-        print ("Si quieres salir al menu introduce el numero 1000 ")
+        mostrar_pokemons()
         opcion = int(input("¿Que Pokemon quieras ver? Introduzca su número: "))
         clear_console()
         mostrar_detalles_pokemon(opcion)
